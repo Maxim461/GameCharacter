@@ -1,14 +1,14 @@
 ﻿<Properties StartupConfiguration="{57098541-0478-4AA5-9CE8-7674CE6C6C6F}|Default">
-  <MonoDevelop.Ide.ItemProperties.GameСharacter PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.GameСharacter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="GameСharacter/EmptyClass.cs">
     <Files>
-      <File FileName="GameСharacter/Program.cs" Line="6" Column="6" />
+      <File FileName="GameСharacter/Program.cs" />
       <File FileName="GameСharacter/EmptyClass.cs" Line="277" Column="38" />
     </Files>
     <Pads>
@@ -20,9 +20,6 @@
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
