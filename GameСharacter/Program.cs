@@ -4,46 +4,52 @@ class Program
 {
     static void Main()
     {
-        EmptyClass gamecharacter = new EmptyClass("", 0, 0, true, 0, "", 0, 0, 0, 0, 0, 0, 0, 0, 0);
-        gamecharacter.Setting();
-        gamecharacter.FillingInInformation();
-        Console.WriteLine("Настройка закончена.");
-        Console.Clear();
+        GameChacterClass GameCharacter = new GameChacterClass("Человек", true, 10, 0, 0);
+        
         while (true)
         {
             Console.WriteLine("Нажмите:");
             Console.WriteLine("1 для вывода информации;");
-            Console.WriteLine("2 для движения;");
-            Console.WriteLine("3 для использования локатора;");
-            Console.WriteLine("4 для вступления в бой;");
-            Console.WriteLine("5 для входа в магазин.");
-            Console.WriteLine("6 для использования чита(Для Анастасии Константиновны)");
+            Console.WriteLine("2 для перемещения по горизонтали;");
+            Console.WriteLine("3 для перемещения по вертикали;");
+            Console.WriteLine("4 для полного уничтожения;");
+            Console.WriteLine("5 для нанесения урона;");
+            Console.WriteLine("6 для лечения;");
+            Console.WriteLine("7 для полноного восстановления;");
+            Console.WriteLine("8 для принадлежности лагерю.");
 
             ConsoleKeyInfo keyInfo = Console.ReadKey(true);
 
             switch (keyInfo.Key)
             {
                 case ConsoleKey.D1:
-                    gamecharacter.InformationOutput();
+                    GameCharacter.InformationOutput();
                     break;
 
                 case ConsoleKey.D2:
-                    gamecharacter.Movement();
+                    GameCharacter.MovingHorizontally();
                     break;
 
                 case ConsoleKey.D3:
-                    gamecharacter.Locator();
+                    GameCharacter.MovingVertically();
                     break;
 
                 case ConsoleKey.D4:
-                    gamecharacter.Destruction();
+                    GameCharacter.Destruction();
                     break;
                 case ConsoleKey.D5:
-                    gamecharacter.Shop();
+                    GameCharacter.DealingDamage();
                     break;
 
                 case ConsoleKey.D6:
-                    gamecharacter.Cheat();
+                    GameCharacter.Treatment();
+                    break;
+
+                case ConsoleKey.D7:
+                    GameCharacter.FullRecovery();
+                    break;
+                case ConsoleKey.D8:
+                    GameCharacter.BelongingToTheCamp();
                     break;
 
                 default: break;

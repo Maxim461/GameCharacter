@@ -1,26 +1,26 @@
 ﻿<Properties StartupConfiguration="{57098541-0478-4AA5-9CE8-7674CE6C6C6F}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.GameСharacter PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="GameСharacter/EmptyClass.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameСharacter/GameChacterClass.cs">
     <Files>
-      <File FileName="GameСharacter/Program.cs" />
-      <File FileName="GameСharacter/EmptyClass.cs" Line="277" Column="38" />
+      <File FileName="GameСharacter/Program.cs" Line="52" Column="53" />
+      <File FileName="GameСharacter/GameChacterClass.cs" Line="130" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GameСharacter" expanded="True">
             <Node name="GameСharacter" expanded="True">
-              <Node name="EmptyClass.cs" selected="True" />
+              <Node name="GameChacterClass.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GameСharacter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
 </Properties>
