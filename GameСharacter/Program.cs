@@ -16,7 +16,8 @@ class Program
             Console.WriteLine("5 для нанесения урона;");
             Console.WriteLine("6 для лечения;");
             Console.WriteLine("7 для полноного восстановления;");
-            Console.WriteLine("8 для принадлежности лагерю.");
+            Console.WriteLine("8 для принадлежности лагерю;");
+            Console.WriteLine("9 для смены лагеря.");
 
             ConsoleKeyInfo keyInfo = Console.ReadKey(true);
 
@@ -37,6 +38,7 @@ class Program
                 case ConsoleKey.D4:
                     GameCharacter.Destruction();
                     break;
+
                 case ConsoleKey.D5:
                     GameCharacter.DealingDamage();
                     break;
@@ -48,8 +50,13 @@ class Program
                 case ConsoleKey.D7:
                     GameCharacter.FullRecovery();
                     break;
+
                 case ConsoleKey.D8:
                     GameCharacter.BelongingToTheCamp();
+                    break;
+
+                case ConsoleKey.D9:
+                    GameCharacter.CharacterChange();
                     break;
 
                 default: break;
