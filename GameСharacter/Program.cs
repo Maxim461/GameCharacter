@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         GameChacterClass GameCharacter = new GameChacterClass("Человек", true, 10, 0, 0);
-        
+
         while (true)
         {
             Console.WriteLine("Нажмите:");
