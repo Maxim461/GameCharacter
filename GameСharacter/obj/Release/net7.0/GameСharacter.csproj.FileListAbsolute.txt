@@ -1,0 +1,15 @@
+/Users/maksli/МДК/ОПП/GameСharacter/GameСharacter/bin/Release/net7.0/GameСharacter
+/Users/maksli/МДК/ОПП/GameСharacter/GameСharacter/bin/Release/net7.0/GameСharacter.deps.json
+/Users/maksli/МДК/ОПП/GameСharacter/GameСharacter/bin/Release/net7.0/GameСharacter.runtimeconfig.json
+/Users/maksli/МДК/ОПП/GameСharacter/GameСharacter/bin/Release/net7.0/GameСharacter.dll
+/Users/maksli/МДК/ОПП/GameСharacter/GameСharacter/bin/Release/net7.0/GameСharacter.pdb
+/Users/maksli/МДК/ОПП/GameСharacter/GameСharacter/obj/Release/net7.0/GameСharacter.csproj.AssemblyReference.cache
+/Users/maksli/МДК/ОПП/GameСharacter/GameСharacter/obj/Release/net7.0/GameСharacter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksli/МДК/ОПП/GameСharacter/GameСharacter/obj/Release/net7.0/GameСharacter.AssemblyInfoInputs.cache
+/Users/maksli/МДК/ОПП/GameСharacter/GameСharacter/obj/Release/net7.0/GameСharacter.AssemblyInfo.cs
+/Users/maksli/МДК/ОПП/GameСharacter/GameСharacter/obj/Release/net7.0/GameСharacter.csproj.CoreCompileInputs.cache
+/Users/maksli/МДК/ОПП/GameСharacter/GameСharacter/obj/Release/net7.0/GameСharacter.dll
+/Users/maksli/МДК/ОПП/GameСharacter/GameСharacter/obj/Release/net7.0/refint/GameСharacter.dll
+/Users/maksli/МДК/ОПП/GameСharacter/GameСharacter/obj/Release/net7.0/GameСharacter.pdb
+/Users/maksli/МДК/ОПП/GameСharacter/GameСharacter/obj/Release/net7.0/GameСharacter.genruntimeconfig.cache
+/Users/maksli/МДК/ОПП/GameСharacter/GameСharacter/obj/Release/net7.0/ref/GameСharacter.dll
